@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.2] - 2023/04/24
+
+### Added
+
+- [Unreleased], v[0.0.1] and v[0.0.2] release links.
+
 ## [0.0.1] - 2023/04/24
 
 ### Added
@@ -23,3 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `<tsconfig.json>` file.
 - This `<CHANGELOG.md>` file.
 - Replaced the `<README.md>` file with default Next.js file.
+
+[Unreleased]: https://github.com/ogre2/react-twitter-clone/compare/v0.0.2...HEAD
+[0.0.2]: https://github.com/ogre2/react-twitter-clone/compare/v0.0.1...v0.0.2
+[0.0.1]: https://github.com/ogre2/react-twitter-clone/releases/tag/v0.0.1
